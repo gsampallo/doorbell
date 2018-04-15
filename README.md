@@ -10,3 +10,8 @@ En la carpeta python, se encuentra el archivo demo para recibir los mensajes del
 Los archivos para imprimir la caja estan aca: https://www.thingiverse.com/thing:2839333
 
 [![Video](https://img.youtube.com/vi/MVk2qMhyCGs/0.jpg)](https://www.youtube.com/watch?v=MVk2qMhyCGs)
+
+
+UPDATE 2018-04-15
+
+Agregue un control de debounce para el botón, dado que a veces sonaba dos veces sin motivo.
